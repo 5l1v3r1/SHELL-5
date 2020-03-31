@@ -1,6 +1,7 @@
-# adapcsg priv8 backdoor shell
+# adapcsg backdoor shell
 
 ada priv8 backdoor shell - This shell backdoor is well created used for educational purposes only
+<br>
 Password : ada@pcsg
 
 # Screenshots
@@ -24,7 +25,9 @@ Dashboard Finder (Under Construction)<br>
 SMTP Cracker<br>
 Command<br>
 About<br>
-LogOut
+LogOut<br><br>
+
+if you find bugs please let me know so that I can fix this in upcoming next update.
 
 # Follow Me
 https://www.facebook.com/kaitolegionofficial <br>
