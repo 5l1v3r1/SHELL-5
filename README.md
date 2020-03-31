@@ -1,6 +1,11 @@
 # adapcsg backdoor shell
 
-ada priv8 backdoor shell - This shell backdoor is well created used for educational purposes only
+This Backdoor shell is made by KaitoLegion to be used for educational purposes only, no-one involved in the creation of this script may be held responsible for any illegal acts brought by anyone by using this script.
+
+# What is shell?
+A backdoor shell is a malicious piece of code (e.g. PHP, Python, Ruby) that can be uploaded to a site to gain access to files stored on that site. Once it is uploaded, the hacker can use it to edit, delete, or download any files on the site, or upload their own.
+
+
 <br>
 Password : ada@pcsg
 
