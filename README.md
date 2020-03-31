@@ -9,23 +9,24 @@ Password : ada@pcsg
 <img src='https://raw.githubusercontent.com/kaitolegion/adapriv8shell/master/ss1.jpg'>
 
 # Features
-Home<br>
-Adminer<br>
-Upload<br>
-Webmail Cracker<br>
-Symlink<br>
-Mass Deface<br>
-Delete Files<br>
-Ransomware<br>
-Zone H Poster<br>
-Encode Script<br>
-Decode Script<br>
-No Redirect<br>
-Dashboard Finder (Under Construction)<br>
-SMTP Cracker<br>
-Command<br>
-About<br>
-LogOut<br><br>
+<ul>
+<li>Home</li>
+<li>Adminer</li>
+<li>Upload</li>
+<li>Webmail Cracker</li>
+<li>Symlink</li>
+<li>Mass Deface</li>
+<li>Delete Files</li>
+<li>Ransomware</li>
+<li>Zone H Poster</li>
+<li>Encode Script</li>
+<li>Decode Script</li>
+<li>No Redirect</li>
+<li>Dashboard Finder (Under Construction)</li>
+<li>SMTP Cracker</li>
+<li>Command</li>
+<li>About</li>
+<li>LogOut<br></li>
 
 If you see some bugs please let me know so that I can fix this in upcoming next update.
 
