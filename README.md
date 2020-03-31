@@ -32,7 +32,7 @@ Password : ada@pcsg
 <li>Command</li>
 <li>About</li>
 <li>LogOut<br></li>
-
+<br><br>
 If you see some bugs please let me know so that I can fix this in upcoming next update.
 
 # Follow Me
