@@ -27,7 +27,7 @@ Command<br>
 About<br>
 LogOut<br><br>
 
-if you find bugs please let me know so that I can fix this in upcoming next update.
+If you see some bugs please let me know so that I can fix this in upcoming next update.
 
 # Follow Me
 https://www.facebook.com/kaitolegionofficial <br>
